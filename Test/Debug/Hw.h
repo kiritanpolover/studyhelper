@@ -29,7 +29,7 @@
 // a test class that just writes to standard out
 class Hw : public AbsHardware {
     ////    Friends    ////
-    
+  //dsfgsdfhsdf          
 public :
 
 #ifdef _OMINSTRUMENT
