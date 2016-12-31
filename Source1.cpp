@@ -1,3 +1,7 @@
-#include <stdio>
+#include <iostream>
+using namespace std;
 
-class
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}
